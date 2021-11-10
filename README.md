@@ -2,11 +2,11 @@
 
 A highly customized horizontal progress bar control.
 
-##Source
+## Source
 
-Inspired by https://github.com/zhouzhuo810/ZzHorizontalProgressBar  version v1.1.1 
+Inspired by [zhouzhuo810/ZzHorizontalProgressBar](https://github.com/zhouzhuo810/ZzHorizontalProgressBar)  version v1.1.1 
 
-##Features
+## Features
 
 1. Support custom progress color;
 2. Support custom background color;
@@ -16,10 +16,10 @@ Inspired by https://github.com/zhouzhuo810/ZzHorizontalProgressBar  version v1.1
 6. Support for the second-level progress bar.
 
 
-![这里写图片描述](https://github.com/zhouzhuo810/ZzHorizontalProgressBar/blob/master/zzhorizontalprogressbar.gif)
+![progressbar_gif](https://github.com/vidyaakbar/ZzHorizontalProgressBar/blob/master/screenshots/zzhorizontalprogressbar.gif)
 
 
-##Dependency
+## Dependency
 
 1.For using ZzHorizontalProgressBar module in sample app, include the source code and add the below dependencies in entry/build.gradle to generate hap/support.har.
 
